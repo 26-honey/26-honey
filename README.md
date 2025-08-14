@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Umasree+P;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </div>
@@ -53,30 +51,64 @@ I'm a passionate Full Stack Engineer with a deep interest in AI/ML technologies.
 
 <div align="center">
 
-### 🤖 **AI-Powered Web Service**
-> A full-stack AI service platform built with React, Node.js, and Python ML models. Features real-time AI processing, user authentication, and responsive design.
->
-> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
->
-> **[View Project →](https://github.com/umasree-p/ai-web-service)**
-
----
-
-### 🌐 **E-Commerce Platform**
-> Modern e-commerce solution with React frontend, Node.js backend, and MongoDB database. Includes payment integration, admin dashboard, and responsive design.
->
-> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
->
-> **[View Project →](https://github.com/umasree-p/ecommerce-platform)**
-
----
-
-### 📱 **Mobile-First Web App**
-> Progressive web application built with modern web technologies. Features offline functionality, push notifications, and cross-platform compatibility.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
->
-> **[View Project →](https://github.com/umasree-p/pwa-app)**
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3>🤖 <b>AI-Powered Web Service</b></h3>
+          <p>A full-stack AI service platform built with React, Node.js, and Python ML models. Features real-time AI processing, user authentication, and responsive design.</p>
+          <div style="margin: 15px 0;">
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/umasree-p/ai-web-service" target="_blank">
+            <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3>🌐 <b>E-Commerce Platform</b></h3>
+          <p>Modern e-commerce solution with React frontend, Node.js backend, and MongoDB database. Includes payment integration, admin dashboard, and responsive design.</p>
+          <div style="margin: 15px 0;">
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+            <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/umasree-p/ecommerce-platform" target="_blank">
+            <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3>📱 <b>Mobile-First Web App</b></h3>
+          <p>Progressive web application built with modern web technologies. Features offline functionality, push notifications, and cross-platform compatibility.</p>
+          <div style="margin: 15px 0;">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+            <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/umasree-p/pwa-app" target="_blank">
+            <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
