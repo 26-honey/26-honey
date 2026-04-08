@@ -1,50 +1,82 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Umasree+P;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=120&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Umasree+P;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=location" alt="Location" />
-  <img src="https://img.shields.io/badge/Timezone-IST%20(GMT%2B5:30)-orange?style=for-the-badge&logo=clock" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Status-🚀%20Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-🇮🇳%20India-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-⏰%20IST%20(GMT%2B5:30)-orange?style=for-the-badge&logo=clock&logoColor=white" alt="Timezone" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umasree-p&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Profile Details" />
 </div>
 
 ---
 
 ## 🚀 **About Me**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</div>
+
 I'm a passionate Full Stack Engineer with a deep interest in AI/ML technologies. I love building scalable web applications and exploring the latest developments in artificial intelligence.
 
-- 🔭 **Currently working on:** Building AI-powered web services and full-stack applications
-- 🌱 **Learning:** Advanced machine learning algorithms, cloud architecture, and emerging AI frameworks
-- 💬 **Ask me about:** React, Python, Node.js, AI/ML, and cloud technologies
-- 📫 **Get in touch:** [Email](mailto:umasree.p@example.com) | [LinkedIn](https://linkedin.com/in/umasree-p)
+<div align="center">
+
+| 🎯 **Currently working on** | 🌱 **Learning** | 💬 **Ask me about** | 📫 **Get in touch** |
+|---------------------------|----------------|-------------------|-------------------|
+| Building AI-powered web services and full-stack applications | Advanced machine learning algorithms, cloud architecture, and emerging AI frameworks | React, Python, Node.js, AI/ML, and cloud technologies | [📧 Email](mailto:umasree.p@example.com) \| [💼 LinkedIn](https://linkedin.com/in/umasree-p) |
+
+</div>
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-| **Languages** | **Frameworks & Libraries** | **Cloud & DevOps** |
-|---------------|---------------------------|-------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Tech Stack GIF" />
+</div>
+
+<div align="center">
+
+### 🎯 **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 **GitHub Stats & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umasree-p&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Stats GIF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umasree-p&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umasree-p&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umasree-p&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umasree-p&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -52,31 +84,69 @@ I'm a passionate Full Stack Engineer with a deep interest in AI/ML technologies.
 ## 🎯 **Featured Projects**
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Projects GIF" />
+</div>
 
-### 🤖 **AI-Powered Web Service**
-> A full-stack AI service platform built with React, Node.js, and Python ML models. Features real-time AI processing, user authentication, and responsive design.
->
-> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
->
-> **[View Project →](https://github.com/umasree-p/ai-web-service)**
+<div align="center">
 
----
-
-### 🌐 **E-Commerce Platform**
-> Modern e-commerce solution with React frontend, Node.js backend, and MongoDB database. Includes payment integration, admin dashboard, and responsive design.
->
-> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
->
-> **[View Project →](https://github.com/umasree-p/ecommerce-platform)**
-
----
-
-### 📱 **Mobile-First Web App**
-> Progressive web application built with modern web technologies. Features offline functionality, push notifications, and cross-platform compatibility.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
->
-> **[View Project →](https://github.com/umasree-p/pwa-app)**
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <div style="border: 3px solid #6366F1; border-radius: 15px; padding: 25px; height: 350px; display: flex; flex-direction: column; justify-content: space-between; background: linear-gradient(145deg, #0D1117 0%, #1a1a2e 100%); box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+        <div>
+          <h3 style="color: #6366F1; margin-bottom: 15px;">🤖 <b>AI-Powered Web Service</b></h3>
+          <p style="color: #FFFFFF; line-height: 1.6;">A full-stack AI service platform built with React, Node.js, and Python ML models. Features real-time AI processing, user authentication, and responsive design.</p>
+          <div style="margin: 20px 0;">
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/umasree-p/ai-web-service" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="border: 3px solid #6366F1; border-radius: 15px; padding: 25px; height: 350px; display: flex; flex-direction: column; justify-content: space-between; background: linear-gradient(145deg, #0D1117 0%, #1a1a2e 100%); box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+        <div>
+          <h3 style="color: #6366F1; margin-bottom: 15px;">🌐 <b>E-Commerce Platform</b></h3>
+          <p style="color: #FFFFFF; line-height: 1.6;">Modern e-commerce solution with React frontend, Node.js backend, and MongoDB database. Includes payment integration, admin dashboard, and responsive design.</p>
+          <div style="margin: 20px 0;">
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+            <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/umasree-p/ecommerce-platform" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="border: 3px solid #6366F1; border-radius: 15px; padding: 25px; height: 350px; display: flex; flex-direction: column; justify-content: space-between; background: linear-gradient(145deg, #0D1117 0%, #1a1a2e 100%); box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;">
+        <div>
+          <h3 style="color: #6366F1; margin-bottom: 15px;">📱 <b>Mobile-First Web App</b></h3>
+          <p style="color: #FFFFFF; line-height: 1.6;">Progressive web application built with modern web technologies. Features offline functionality, push notifications, and cross-platform compatibility.</p>
+          <div style="margin: 20px 0;">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+            <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/umasree-p/pwa-app" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -101,12 +171,16 @@ I'm a passionate Full Stack Engineer with a deep interest in AI/ML technologies.
 ## 🤝 **Let's Connect!**
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnKonfpQhR3v2/giphy.gif" width="200" alt="Connect GIF" />
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/umasree-p" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <a href="mailto:umasree.p@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <a href="https://github.com/umasree-p" target="_blank">
@@ -118,16 +192,24 @@ I'm a passionate Full Stack Engineer with a deep interest in AI/ML technologies.
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umasree-p&style=flat-square&color=6366F1" alt="Profile Views" />
-  
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown" />
+  <img src="https://img.shields.io/badge/💬_Let's_Collaborate-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Let's Collaborate" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐ Star this repository if you found it helpful!</sub>
+  <img src="https://komarev.com/ghpvc/?username=umasree-p&style=flat-square&color=6366F1" alt="Profile Views" />
+  
+  <img src="https://img.shields.io/badge/Made%20with-💖%20and%20Markdown-1f425f.svg" alt="Made with Love and Markdown" />
+  
+  <img src="https://img.shields.io/badge/Last_Updated-2024-brightgreen?style=flat-square" alt="Last Updated" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100" alt="Star GIF" />
+  
+  <sub>⭐ **Star this repository if you found it helpful!** ⭐</sub>
 </div>
